@@ -6,10 +6,11 @@ Desenvolvido para a disciplina de Programação Desktop, ministrada pelo profess
 Repositório criado por Nelson Toneze.
 
 ## Requisitos técnicos obrigatórios utilizados
-- Linguagem de programação Java
-- Banco de dados MySQL
-- GUI Desktop usando Java Swing
-- Relatórios usando Jaspersoft Studio
+- Linguagem de programação Java.
+- Banco de dados MySQL.
+- Estrutura do código em MVC com DAO.
+- GUI Desktop usando Java Swing.
+- Relatórios usando Jaspersoft Studio.
 
 
 ## Regras de negócio
