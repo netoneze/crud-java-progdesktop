@@ -2,6 +2,7 @@
 Sistema fictício para controle de uma escola em Java.
 
 Desenvolvido para a disciplina de Programação Desktop, ministrada pelo professor Dr. Fabricio Martins Lopes, do curso de Engenharia de Software da UTFPR de Cornélio Procópio.
+
 Posteriormente modificado aplicando conceitos da disciplina de Gerência de Configuração, ministrtada pelo professor Dr. Alexandre L´Erario, do curso de Engenharia de Software da UTFPR de Cornélio Procópio.
 
 Repositório criado por Nelson Toneze.
