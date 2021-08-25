@@ -1,4 +1,5 @@
 [![Java CI](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/ant.yml/badge.svg)](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/ant.yml)
+[![Java CD Create Release](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/main.yml/badge.svg)](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/main.yml)
 
 # Sistema de Gerenciamento Escolar - CRUD/JAVA
 Sistema fictício para controle de uma escola em Java.
