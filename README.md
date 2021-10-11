@@ -1,3 +1,5 @@
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 [![Java CI](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/ant.yml/badge.svg)](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/ant.yml)
 [![Java CD](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/main.yml/badge.svg)](https://github.com/netoneze/crud-java-progdesktop/actions/workflows/main.yml)
 
